@@ -1,0 +1,30 @@
+body{
+    height: 100%;
+    background-color: #242B2E;
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+}
+ div{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+ }
+ div textarea{
+    border-radius: 10px;
+    background-color: #CAD5E2;
+    color: #242B2E;
+    font-size: 30px;
+ }
+
+ span{
+    color: #CAD5E2;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    margin-left: 80vh;
+    margin-top: 50px;
+    border: 2px solid #CAD5E2;
+    padding: 25px;
+
+ }

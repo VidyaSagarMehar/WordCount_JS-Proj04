@@ -1,0 +1,1 @@
+# Word Count web app, JavaScript project 04
