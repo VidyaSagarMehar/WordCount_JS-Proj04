@@ -13,6 +13,6 @@ function myFunction() {
 	let inpt = document.querySelector("#input").value;
 	let spaceCount = inpt.split(" ").length - 1;
 	let strLn = inpt.length - spaceCount;
-	let countWithoutSpace = strLn - spaceCount;
+
 	document.querySelector("#countOutput").innerHTML = "Word Count ~ " + strLn;
 }
