@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Word Count web app, JavaScript project
@@ -32,8 +32,9 @@ https://wordcountweb.netlify.app/
 
 
 ## Screenshots
+![Screenshot ](https://user-images.githubusercontent.com/92782806/211472426-c25539b8-f2ce-4c3c-80df-2f99f356c3f9.png)
 
-![](./Screenshot%20.png)
+
 
 
 ## Feedback
